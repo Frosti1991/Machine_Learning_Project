@@ -27,3 +27,12 @@ Lyrics - Text Classification
 - Converting text to numbers by applying TfidfVectorizer and Bag Of Words method
 - Building and training Naive Bayes, Random Forest and Logistic Regression by a pipeline
 - Class Balancing with Naive Bayes
+
+Temperature Forecast - Time Series Analysis
+- Goal: to create a short-term-forecast for the temperature of Berlin-Tempelhof
+- Time series analysis and plotting
+- Extracting Noise with Filter
+- Modelling trend and seasonality components
+- Building a baseline model
+- Exploring Linear Autoregression
+- Applying ARIMA and SARIMAX model to predict the temperature
